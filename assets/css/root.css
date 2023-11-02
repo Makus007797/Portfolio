@@ -1,0 +1,30 @@
+:root {
+  --container-width: 112rem;
+  --base-font-size: 1.8rem;
+  --base-line-height: 1.2;
+  --base-font-family: "Dnipro", sans-serif;
+  --default-transition: all 0.3s ease-in-out;
+  --transition-08: all 0.8s ease-in-out;
+  --border-radius-4: 0.4rem;
+  --accent-color: #009e66;
+  --primery-color-100: rgba(34, 34, 34, 1);
+  --primery-color-95: rgba(34, 34, 34, 0.95);
+  --amber-color-100: rgba(229, 229, 230, 1);
+  --amber-color-50: rgba(229, 229, 230, 0.5);
+  --amber-color-10: rgba(229, 229, 230, 0.1);
+  --html-color: #ff8a65;
+  --css-color: #64b5f6;
+  --pug-color: #efcca3;
+  --scss-color: #c76494;
+  --js-color: #efd81d;
+  --jq-color: #0865a7;
+  --react-color: #5ed3f3;
+  --ph-color: #2fa3f7;
+  --figma-color: #0ac97f;
+  --git-color: #e84e31;
+  --gulp-color: #ca4545;
+  --font-size-h1: 5rem;
+  --font-size-h2: 4rem;
+  --font-size-h3: 1.6rem;
+  --border: 0.1rem solid var(--amber-color-10);
+}

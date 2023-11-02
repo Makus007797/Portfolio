@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Dnipro";
+  src: url("../fonts/Dnipro-Bold.ttf") format("truetype");
+  src: url("../fonts/Dnipro-Bold.woff") format("woff");
+  src: url("../fonts/Dnipro-Bold.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: "Dnipro";
+  src: url("../fonts/Dnipro-Regular.ttf") format("truetype");
+  src: url("../fonts/Dnipro-Regular.woff") format("woff");
+  src: url("../fonts/Dnipro-Regular.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+}
